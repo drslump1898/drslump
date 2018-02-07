@@ -1,3 +1,3 @@
 ﻿<?php
-echo "Hello LINE BOT";
+echo "Hello my name is worapod ";
 ?>
